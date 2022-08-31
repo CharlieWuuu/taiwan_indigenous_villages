@@ -1,0 +1,1751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Folder>
+	<name>桃園縣</name>
+	<Document>
+		<name>復興鄉傳統地名</name>
+		<open>1</open>
+		<description>Exported from 復興鄉傳統地名 on 2007/6/14</description>
+		<Style id="FEATURES0">
+			<IconStyle>
+				<color>ff777cec</color>
+				<scale>0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<color>00ffffff</color>
+			</LabelStyle>
+		</Style>
+		<StyleMap id="FEATURES_copy0">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#FEATURES_copy1</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#FEATURES_copy2</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="FEATURES_copy1">
+			<IconStyle>
+				<color>ff777cec</color>
+				<scale>0.5</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<color>00ffffff</color>
+			</LabelStyle>
+		</Style>
+		<Style id="FEATURES_copy2">
+			<IconStyle>
+				<color>ff777cec</color>
+				<scale>0.590909</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<color>00ffffff</color>
+			</LabelStyle>
+		</Style>
+		<Folder>
+			<name>Features</name>
+			<Placemark>
+				<name>1</name>
+				<description><![CDATA[ID = 10<br />中文地名 =  <br />拼音地名 = Aqyeq<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 91年地名<br />備註 = 一種草類<br />原始編號 =  <br />地名故事 = 一種草類。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.321121399789,24.7508772535126,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>2</name>
+				<description><![CDATA[ID = 190<br />中文地名 = 上巴陵<br />拼音地名 = Balung<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.312334056647,24.7414365411804,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>3</name>
+				<description><![CDATA[ID = 146<br />中文地名 = 枕頭山<br />拼音地名 = B'bu Blhuy<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.335563092352,24.7334237174398,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>4</name>
+				<description><![CDATA[ID = 6<br />中文地名 =  <br />拼音地名 = B'bu l'ku<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 91年地名<br />備註 = 箭荀山<br />原始編號 =  <br />地名故事 = 箭筍山。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.351996506899,24.7301730498989,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5</name>
+				<description><![CDATA[ID = 5<br />中文地名 =  <br />拼音地名 = B'bu qabang<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 91年地名<br />備註 = 南瓜山岬之意?<br />原始編號 =  <br />地名故事 = 山頭，南瓜山岬之意。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.320707630708,24.7260523754697,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>6</name>
+				<description><![CDATA[ID = 7<br />中文地名 =  <br />拼音地名 = B'bu qesu<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 91年地名<br />備註 = "qesu"一種樹名。即qesu山之意?<br />原始編號 =  <br />地名故事 = 山頭，“qesu”一種樹名。即qesu山之意。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.33027052652,24.7274984203456,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7</name>
+				<description><![CDATA[ID = 163<br />中文地名 =  <br />拼音地名 = Blhuy<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 = 部落名<br />原始編號 =  <br />地名故事 = 部落名。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.350535074571,24.7271730284972,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>8</name>
+				<description><![CDATA[ID = 179<br />中文地名 = 內奎輝<br />拼音地名 = Bnan<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.354511257074,24.7270239859423,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>9</name>
+				<description><![CDATA[ID = 151<br />中文地名 = 馬望曾呂山<br />拼音地名 = bugaling<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.34770772048,24.7279479344907,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10</name>
+				<description><![CDATA[ID = 168<br />中文地名 = 佳志<br />拼音地名 = Cyasi<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.35120019348,24.7189294544213,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11</name>
+				<description><![CDATA[ID = 175<br />中文地名 = 義興（葉坑）<br />拼音地名 = Gihing<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.350962955584,24.716136103287,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>12</name>
+				<description><![CDATA[ID = 193<br />中文地名 = 爺亨<br />拼音地名 = Gihing.<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.336470476855,24.7295800657534,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>13</name>
+				<description><![CDATA[ID = 136<br />中文地名 =  <br />拼音地名 = gon haluy<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 = 人名<br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.335801777684,24.8424394874567,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>14</name>
+				<description><![CDATA[ID = 139<br />中文地名 =  <br />拼音地名 = gon ksunun<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.338512612508,24.8352704833553,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15</name>
+				<description><![CDATA[ID = 143<br />中文地名 =  <br />拼音地名 = gon luhung<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.336943248384,24.83184829729271,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>16</name>
+				<description><![CDATA[ID = 142<br />中文地名 =  <br />拼音地名 = gon mapung<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.355336015556,24.8365216458005,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>17</name>
+				<description><![CDATA[ID = 137<br />中文地名 =  <br />拼音地名 = gon panan<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 = 人名<br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.354450475503,24.8337208807597,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>18</name>
+				<description><![CDATA[ID = 138<br />中文地名 =  <br />拼音地名 = gon qehuy<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.358592230457,24.832954673163,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19</name>
+				<description><![CDATA[ID = 141<br />中文地名 =  <br />拼音地名 = gon sanzi<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.387454210301,24.83837315584911,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20</name>
+				<description><![CDATA[ID = 144<br />中文地名 =  <br />拼音地名 = gon silung<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.399884156786,24.8396036610222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>21</name>
+				<description><![CDATA[ID = 188<br />中文地名 =  <br />拼音地名 = Hahay<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.403657705689,24.8343901517946,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>22</name>
+				<description><![CDATA[ID = 195<br />中文地名 = 光華（哈嘎灣）<br />拼音地名 = Hakawan<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.413850560256,24.8179749287047,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>23</name>
+				<description><![CDATA[ID = 140<br />中文地名 =  <br />拼音地名 = h'bun  rinosa<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.424836896891,24.80521475467801,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>24</name>
+				<description><![CDATA[ID = 135<br />中文地名 = 合流<br />拼音地名 = h'bun sngumi<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.402749347891,24.80120815979191,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>25</name>
+				<description><![CDATA[ID = 145<br />中文地名 =  <br />拼音地名 = h'bun sryuhin<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.382371991647,24.8181634735656,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>26</name>
+				<description><![CDATA[ID = 155<br />中文地名 =  <br />拼音地名 = kayu baleq<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.38184633866,24.8237901718069,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>27</name>
+				<description><![CDATA[ID = 184<br />中文地名 = 卡議蘭（棲蘭）<br />拼音地名 = Kgiran<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.391440412923,24.8279333669271,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>28</name>
+				<description><![CDATA[ID = 167<br />中文地名 = 羅浮（拉號）<br />拼音地名 = Knyopan<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.363305846686,24.8018156365382,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>29</name>
+				<description><![CDATA[ID = 181<br />中文地名 = 高坡<br />拼音地名 = Kobu<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.361935072905,24.7815549760548,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>30</name>
+				<description><![CDATA[ID = 178<br />中文地名 = 嚘色鬧<br />拼音地名 = Ksunu<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.348364318256,24.7949240985993,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>31</name>
+				<description><![CDATA[ID = 8<br />中文地名 =  <br />拼音地名 = Mohing<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 91年地名<br />備註 = 橘的一種<br />原始編號 =  <br />地名故事 = 橘的一種。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.348793560292,24.78936034557921,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>32</name>
+				<description><![CDATA[ID = 172<br />中文地名 = 中島<br />拼音地名 = Nakasima<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 = 兩河之間<br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.347168176632,24.7806748510427,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>33</name>
+				<description><![CDATA[ID = 9<br />中文地名 =  <br />拼音地名 = Ngarux<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 91年地名<br />備註 = 雄<br />原始編號 =  <br />地名故事 = 熊。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.344487023088,24.7760927781497,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>34</name>
+				<description><![CDATA[ID = 192<br />中文地名 = 巴陵<br />拼音地名 = P'hay<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.337626838214,24.7719261744545,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>35</name>
+				<description><![CDATA[ID = 4<br />中文地名 =  <br />拼音地名 = Pinsalan<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 91年地名<br />備註 = １舊社地名。　２舊識的朋友之意。３雙方相互約談之地。<br />原始編號 =  <br />地名故事 = 舊社地名。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.351675088539,24.7701884695204,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>36</name>
+				<description><![CDATA[ID = 153<br />中文地名 =  <br />拼音地名 = Pitung Masin<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.336286506797,24.7861406403731,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>37</name>
+				<description><![CDATA[ID = 185<br />中文地名 = 里安<br />拼音地名 = Piyaway<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.335651269879,24.7814725923794,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>38</name>
+				<description><![CDATA[ID = 159<br />中文地名 =  <br />拼音地名 = Qalang Snazi<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.335818790275,24.777614823248,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>39</name>
+				<description><![CDATA[ID = 2<br />中文地名 =  <br />拼音地名 = Qaping<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 91年地名<br />備註 = 人渡過湍急的河水之後，在對岸手所抓住的任何東西叫Qaping?<br />原始編號 =  <br />地名故事 = 地名。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.380414234941,24.79589049602791,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>40</name>
+				<description><![CDATA[ID = 171<br />中文地名 = 卡普<br />拼音地名 = Qapu<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.401010175531,24.7864223313986,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>41</name>
+				<description><![CDATA[ID = 158<br />中文地名 =  <br />拼音地名 = Qara<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 = 已淹沒部落<br />原始編號 =  <br />地名故事 = 已淹沒的部落。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.440257480544,24.7846417546448,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>42</name>
+				<description><![CDATA[ID = 189<br />中文地名 = 卡拉<br />拼音地名 = Qara.<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.431763721795,24.7814271378171,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>43</name>
+				<description><![CDATA[ID = 1<br />中文地名 =  <br />拼音地名 = Qehui<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 91年地名<br />備註 = 一種樹的名稱?<br />原始編號 =  <br />地名故事 = 地名，一種樹的名稱。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.420263579077,24.7743231445425,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>44</name>
+				<description><![CDATA[ID = 165<br />中文地名 = 中奎輝<br />拼音地名 = Qehuy<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.418791824784,24.76526716892541,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>45</name>
+				<description><![CDATA[ID = 12<br />中文地名 =  <br />拼音地名 = Qlangan<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 91年地名<br />備註 = 懶散之意<br />原始編號 =  <br />地名故事 = 地名，懶散之意。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.416884125065,24.758388831708,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>46</name>
+				<description><![CDATA[ID = 157<br />中文地名 =  <br />拼音地名 = Qlilang<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 = 被淹沒部落<br />原始編號 =  <br />地名故事 = 被淹沒的部落。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.4124993059,24.7566294374704,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>47</name>
+				<description><![CDATA[ID = 164<br />中文地名 = 下奎輝<br />拼音地名 = Qmicyan<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.418579221388,24.7514498258192,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>48</name>
+				<description><![CDATA[ID = 162<br />中文地名 = 上高遶<br />拼音地名 = Qozyaw(Yubang)<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.400878813682,24.7627854224045,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>49</name>
+				<description><![CDATA[ID = 196<br />中文地名 = 新興（嘎拉賀）<br />拼音地名 = Qrahu<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.411471112791,24.7810287501909,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>50</name>
+				<description><![CDATA[ID = 149<br />中文地名 = 牌仔山<br />拼音地名 = quli sbas<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.414162648712,24.773479686602,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>51</name>
+				<description><![CDATA[ID = 150<br />中文地名 =  <br />拼音地名 = qurieakan<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.410983428203,24.7676170934961,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>52</name>
+				<description><![CDATA[ID = 180<br />中文地名 =  <br />拼音地名 = Qus<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.372342853395,24.7853322353883,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>53</name>
+				<description><![CDATA[ID = 186<br />中文地名 = 高義<br />拼音地名 = Qwilan<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.36764127035,24.7702605183484,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>54</name>
+				<description><![CDATA[ID = 182<br />中文地名 = 羅加<br />拼音地名 = Raga<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.367831887906,24.7785103358812,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>55</name>
+				<description><![CDATA[ID = 166<br />中文地名 =  <br />拼音地名 = Rahaw<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.333725934813,24.8116586977503,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>56</name>
+				<description><![CDATA[ID = 176<br />中文地名 = 斷匯（南岩）<br />拼音地名 = Rangay<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.311437379164,24.7677738826736,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>57</name>
+				<description><![CDATA[ID = 147<br />中文地名 = 竹頭角山<br />拼音地名 = Rgyax luku<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.322110465375,24.7718750748984,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>58</name>
+				<description><![CDATA[ID = 148<br />中文地名 = 那結山<br />拼音地名 = Rgyax Snazi<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.309645295313,24.7585947643058,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>59</name>
+				<description><![CDATA[ID = 154<br />中文地名 = 三民<br />拼音地名 = San min<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.307824149948,24.8028108534352,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>60</name>
+				<description><![CDATA[ID = 183<br />中文地名 = 雪霧鬧<br />拼音地名 = Sbunaw<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.308805057449,24.7971325266461,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>61</name>
+				<description><![CDATA[ID = 156<br />中文地名 =  <br />拼音地名 = Silung<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 = 喝水煮東西的地方<br />原始編號 =  <br />地名故事 = 喝水煮東西的地方。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.311481809622,24.7834042572641,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>62</name>
+				<description><![CDATA[ID = 161<br />中文地名 =  <br />拼音地名 = Silung.<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.32034460048,24.7889895648109,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>63</name>
+				<description><![CDATA[ID = 177<br />中文地名 = 志朗<br />拼音地名 = Silung..<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.307020159444,24.7748285920834,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>64</name>
+				<description><![CDATA[ID = 169<br />中文地名 = 優霞雲（志繼）<br />拼音地名 = Sqeiy<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.303381590644,24.7688444689001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>65</name>
+				<description><![CDATA[ID = 191<br />中文地名 = 蘇樂<br />拼音地名 = Sura<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.294183936688,24.7726187105402,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>66</name>
+				<description><![CDATA[ID = 194<br />中文地名 = 復華（鐵立庫）<br />拼音地名 = Tgleq<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.29078102746,24.7694060195172,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>67</name>
+				<description><![CDATA[ID = 160<br />中文地名 = 長興<br />拼音地名 = Thokak<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.296972961428,24.76474371504962,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>68</name>
+				<description><![CDATA[ID = 187<br />中文地名 =  <br />拼音地名 = Tkasan<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.291740025333,24.7886009217723,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>69</name>
+				<description><![CDATA[ID = 152<br />中文地名 = 水流東<br />拼音地名 = Tuba<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.286725647487,24.7805324720011,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>70</name>
+				<description><![CDATA[ID = 11<br />中文地名 =  <br />拼音地名 = Ulai pyaway<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 91年地名<br />備註 = 比亞外的溫泉<br />原始編號 =  <br />地名故事 = 比亞外的溫泉。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.273370246211,24.8097229180489,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>71</name>
+				<description><![CDATA[ID = 174<br />中文地名 = 下宇內 （小烏來）<br />拼音地名 = Ulay<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.27102952774,24.7911148514413,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>72</name>
+				<description><![CDATA[ID = 3<br />中文地名 =  <br />拼音地名 = Uraw<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 91年地名<br />備註 = 泥土的意思。相傳該區為土壤最肥沃之地，栽種任何作物都會豐收<br />原始編號 =  <br />地名故事 = 栽種區。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.248615900863,24.8042334788939,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>73</name>
+				<description><![CDATA[ID = 173<br />中文地名 = 上宇內<br />拼音地名 = Yubang<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.320844909005,24.6988160813223,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>74</name>
+				<description><![CDATA[ID = 170<br />中文地名 = 霞雲<br />拼音地名 = Zyaw h'bun<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 93年<br />備註 =  <br />原始編號 =  <br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.313873293438,24.6985929934384,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>75</name>
+				<description><![CDATA[ID = 54<br />中文地名 = 一亨<br />拼音地名 = 一亨<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 5-16<br />地名故事 = 現名義興。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.304321118257,24.6958115568888,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>76</name>
+				<description><![CDATA[ID = 30<br />中文地名 = 了貫<br />拼音地名 = 了貫<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 4-3<br />地名故事 = 位於阿類溪上游皆為祖先遺留足跡並有部落。167林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.306418760402,24.7019644424423,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>77</name>
+				<description><![CDATA[ID = 55<br />中文地名 = 了輝<br />拼音地名 = 了輝<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 6-1<br />地名故事 = 枕頭山。5林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.305188266714,24.7074370349994,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>78</name>
+				<description><![CDATA[ID = 44<br />中文地名 = 力霸<br />拼音地名 = 力霸<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 5-6<br />地名故事 = 插天山與盧平山及西布喬溪間。23、24、25林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.319207309394,24.7191672002593,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>79</name>
+				<description><![CDATA[ID = 40<br />中文地名 = 尤芳<br />拼音地名 = 尤芳<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 5-2<br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.336613391815,24.7295918028548,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>80</name>
+				<description><![CDATA[ID = 64<br />中文地名 = 尤顧<br />拼音地名 = 尤顧<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 7-6<br />地名故事 = 那是山及上高遶之間，為祖先種植桂竹之地。175林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.333817203508,24.7351192395591,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>81</name>
+				<description><![CDATA[ID = 37<br />中文地名 = 巴          隊<br />拼音地名 = 巴          隊<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 10-28<br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.34214184485,24.7285854767224,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>82</name>
+				<description><![CDATA[ID = 129<br />中文地名 = 巴          隊<br />拼音地名 = 巴          隊.<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 10-30<br />地名故事 = 水田、己劃歸棲蘭山林管處處理。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.347665779507,24.7368395953821,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>83</name>
+				<description><![CDATA[ID = 131<br />中文地名 = 巴          隆<br />拼音地名 = 巴          隆<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 10-4<br />地名故事 = 為族人的共同狩獵區。51、52、53、54、55、56、57林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.330466717606,24.7136016445715,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>84</name>
+				<description><![CDATA[ID = 106<br />中文地名 = 巴卡<br />拼音地名 = 巴卡<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 4-10<br />地名故事 = 上巴陵舊部。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.359748626196,24.7448375543743,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>85</name>
+				<description><![CDATA[ID = 76<br />中文地名 = 比          蓋<br />拼音地名 = 比          蓋<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 10-11<br />地名故事 = 有桂竹、水流柯，先祖曾到此遺留足跡。160、162、159林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.368333677202,24.7418736664147,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>86</name>
+				<description><![CDATA[ID = 67<br />中文地名 = 比布盪<br />拼音地名 = 比布盪<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 8-5<br />地名故事 = 那是山及上高遶之間，為祖先種植桂竹之地。175林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.386740160184,24.7098552093386,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>87</name>
+				<description><![CDATA[ID = 15<br />中文地名 = 比洞<br />拼音地名 = 比洞<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 7-9<br />地名故事 = 位於目前阿義魚池，為原住民祖先開挖至日據時代被日本人強佔做為茶工廠。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.388677501204,24.7049451282511,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>88</name>
+				<description><![CDATA[ID = 72<br />中文地名 = 比洞馬信<br />拼音地名 = 比洞馬信<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 1-3<br />地名故事 = 現名仙島。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.38860710453,24.6979890173934,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>89</name>
+				<description><![CDATA[ID = 112<br />中文地名 = 比路斯<br />拼音地名 = 比路斯<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 7-14<br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.381530393943,24.6982301322335,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>90</name>
+				<description><![CDATA[ID = 78<br />中文地名 = 牛幹<br />拼音地名 = 牛幹<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 8-7<br />地名故事 = 有桂竹、水流柯，先祖曾到此遺留足跡。160、162、159林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.37925335069,24.7038544522956,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>91</name>
+				<description><![CDATA[ID = 27<br />中文地名 = 加夕<br />拼音地名 = 加夕<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 3-9<br />地名故事 = 現名佳志。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.376192861754,24.6924912764737,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>92</name>
+				<description><![CDATA[ID = 22<br />中文地名 = 卡 拉了 會<br />拼音地名 = 卡 拉了 會<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 10-12<br />地名故事 = 庫志溪上游先祖種植桂竹。9，10，11林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.361520607629,24.675189394248,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>93</name>
+				<description><![CDATA[ID = 113<br />中文地名 = 卡外哥拉戶<br />拼音地名 = 卡外哥拉戶<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 3-4<br />地名故事 = 比該及得曼中間。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.364415633452,24.6832150541668,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>94</name>
+				<description><![CDATA[ID = 82<br />中文地名 = 卡為浪<br />拼音地名 = 卡為浪<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 8-11<br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.351925350388,24.6809421523582,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>95</name>
+				<description><![CDATA[ID = 28<br />中文地名 = 可   拉   戶<br />拼音地名 = 可   拉   戶<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 10-23<br />地名故事 = 現名羅浮。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.342689585615,24.67860625459881,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>96</name>
+				<description><![CDATA[ID = 70<br />中文地名 = 可牛伴<br />拼音地名 = 可牛伴<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 4-1<br />地名故事 = 現名新甘坪。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.303719597806,24.6927482025711,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>97</name>
+				<description><![CDATA[ID = 35<br />中文地名 = 可尼浪<br />拼音地名 = 可尼浪<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 7-12<br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.355219098154,24.664088320855,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>98</name>
+				<description><![CDATA[ID = 124<br />中文地名 = 可呢段<br />拼音地名 = 可呢段<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 4-8<br />地名故事 = 92年地名<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.355346210489,24.65060752721301,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>99</name>
+				<description><![CDATA[ID = 57<br />中文地名 = 可書努<br />拼音地名 = 可書努<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 6-3<br />地名故事 = 先祖曾經與此種植水流柯、桂竹等。171、172林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.357099298897,24.6423338152096,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>100</name>
+				<description><![CDATA[ID = 77<br />中文地名 = 可獵<br />拼音地名 = 可獵<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 8-6<br />地名故事 = 有桂竹、水流柯，先祖曾到此遺留足跡。160、162、159林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.366524444543,24.6442369184608,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>101</name>
+				<description><![CDATA[ID = 68<br />中文地名 = 可耀<br />拼音地名 = 可耀<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 7-10<br />地名故事 = 那是山及上高遶之間，為祖先種植桂竹之地。175林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.368857956477,24.6369434282749,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>102</name>
+				<description><![CDATA[ID = 20<br />中文地名 = 古力亞伯<br />拼音地名 = 古力亞伯<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 3-2<br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.37968983205,24.6669360187425,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>103</name>
+				<description><![CDATA[ID = 81<br />中文地名 = 古利達幹<br />拼音地名 = 古利達幹<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 8-10<br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.388615278082,24.6779361810613,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>104</name>
+				<description><![CDATA[ID = 49<br />中文地名 = 古魯<br />拼音地名 = 古魯<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 5-11<br />地名故事 = 下宇內溪及插天山之間有桂竹、原始林地等。15林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.392063997008,24.6822048514836,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>105</name>
+				<description><![CDATA[ID = 62<br />中文地名 = 古露<br />拼音地名 = 古露<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 7-4<br />地名故事 = 位於奎輝溪上游及竹角山間，祖先曾在此遊耕及部落。174、173林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.39846112707,24.6814802024981,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>106</name>
+				<description><![CDATA[ID = 19<br />中文地名 = 右力給力<br />拼音地名 = 右力給力<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 3-1<br />地名故事 = 接近台北三峽鎮為祖先獵場。8林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.398954304531,24.688280015999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>107</name>
+				<description><![CDATA[ID = 51<br />中文地名 = 右難<br />拼音地名 = 右難<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 5-13<br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.428009975417,24.6977399948702,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>108</name>
+				<description><![CDATA[ID = 122<br />中文地名 = 奴   路   斯<br />拼音地名 = 奴   路   斯<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 10-21<br />地名故事 = 內有祖先種植桂竹、梧桐等。53、58、59、60、61林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.433141868033,24.7011309464895,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>109</name>
+				<description><![CDATA[ID = 50<br />中文地名 = 打          散<br />拼音地名 = 打          散<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 10-32<br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.440959008762,24.7016826311581,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>110</name>
+				<description><![CDATA[ID = 133<br />中文地名 = 打亞<br />拼音地名 = 打亞<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 5-12<br />地名故事 = 為族人的共同狩獵區。51、52、53、54、55、56、57林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.435501679578,24.7080995882838,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>111</name>
+				<description><![CDATA[ID = 95<br />中文地名 = 伊          抱<br />拼音地名 = 伊          抱<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 10-8<br />地名故事 = 為砂崙子祖先耕地，此與新竹縣為界，均係日本時代就在此耕作，且日本時代即同意我先祖在該地種植杉木、水柳、竹等。158、159林班<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.447876448129,24.7018262741537,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>112</name>
+				<description><![CDATA[ID = 110<br />中文地名 = 伊抱<br />拼音地名 = 伊抱<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 9-4<br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.44534007062,24.6832462294446,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>113</name>
+				<description><![CDATA[ID = 116<br />中文地名 = 多   那   尾<br />拼音地名 = 多   那   尾<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 10-15<br />地名故事 = 位於39林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.457014498192,24.6827597952363,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>114</name>
+				<description><![CDATA[ID = 75<br />中文地名 = 多勞<br />拼音地名 = 多勞<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 8-4<br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.448654049411,24.6932071945626,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>115</name>
+				<description><![CDATA[ID = 32<br />中文地名 = 多諾幹<br />拼音地名 = 多諾幹<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 4-5<br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.458083520661,24.69264529628491,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>116</name>
+				<description><![CDATA[ID = 107<br />中文地名 = 耳          傍<br />拼音地名 = 耳          傍<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 10-5<br />地名故事 = 祖先種植小米、苧麻。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.468775872461,24.681533603532,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>117</name>
+				<description><![CDATA[ID = 85<br />中文地名 = 西布鬧<br />拼音地名 = 西布鬧<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 8-14<br />地名故事 = 現名雪霧鬧。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.452486402109,24.6724333772442,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>118</name>
+				<description><![CDATA[ID = 60<br />中文地名 = 西拿寄<br />拼音地名 = 西拿寄<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 7-2<br />地名故事 = 附近高坡間有桂竹，係祖先遺留足跡。174、173林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.442033794397,24.6625757037244,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>119</name>
+				<description><![CDATA[ID = 41<br />中文地名 = 何兒汗<br />拼音地名 = 何兒汗<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 5-3<br />地名故事 = 位於達開山及宇內溪之間，為先祖曾經居住及遊獵場所。13、14林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.429175639613,24.657771154996,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>120</name>
+				<description><![CDATA[ID = 119<br />中文地名 = 伯   耳   萬<br />拼音地名 = 伯   耳   萬<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 10-18<br />地名故事 = 舊房屋、地穴避難所。45、46林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.436963346642,24.650650096316,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>121</name>
+				<description><![CDATA[ID = 69<br />中文地名 = 否努可耀<br />拼音地名 = 否努可耀<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 7-11<br />地名故事 = 那是山及上高遶之間，為祖先種植桂竹之地。175林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.439814580078,24.6443227781563,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>122</name>
+				<description><![CDATA[ID = 79<br />中文地名 = 否咧<br />拼音地名 = 否咧<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 8-8<br />地名故事 = 有桂竹、水流柯，先祖曾到此遺留足跡。161、162、163林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.395682606871,24.64415819079541,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>123</name>
+				<description><![CDATA[ID = 115<br />中文地名 = 巫   移   散<br />拼音地名 = 巫   移   散<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 10-14<br />地名故事 = 塔曼山最高。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.389830550166,24.6390854280836,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>124</name>
+				<description><![CDATA[ID = 104<br />中文地名 = 亞           藥<br />拼音地名 = 亞           藥<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 10-2<br />地名故事 = 種植竹子。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.407466238718,24.6368639374198,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>125</name>
+				<description><![CDATA[ID = 84<br />中文地名 = 拉          愛<br />拼音地名 = 拉          愛<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 10-6<br />地名故事 = 位於雪霧鬧及洞口間祖先有種植桂竹。28林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.400437244453,24.6287583481047,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>126</name>
+				<description><![CDATA[ID = 13<br />中文地名 = 拉卡<br />拼音地名 = 拉卡<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 8-13<br />地名故事 = 部落名。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.406714367706,24.6264847054041,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>127</name>
+				<description><![CDATA[ID = 29<br />中文地名 = 拉卡(飛)<br />拼音地名 = 拉卡(飛)<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 1-1<br />地名故事 = 高坡上方有桂竹係先祖種植，現名斷匯。168林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.405199337574,24.6160254459056,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>128</name>
+				<description><![CDATA[ID = 43<br />中文地名 = 拉耐<br />拼音地名 = 拉耐<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 4-2<br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.384892178329,24.6097186745713,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>129</name>
+				<description><![CDATA[ID = 89<br />中文地名 = 拉豹<br />拼音地名 = 拉豹<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 5-5<br />地名故事 = 祖先曾在此種植水流柯、桂竹及部落。30、31、36、154林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.429655291291,24.627364671498,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>130</name>
+				<description><![CDATA[ID = 108<br />中文地名 = 拉愛<br />拼音地名 = 拉愛<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 8-18<br />地名故事 = 卡拉部落上方。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.409169065778,24.6083415732547,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>131</name>
+				<description><![CDATA[ID = 42<br />中文地名 = 河伯袞<br />拼音地名 = 河伯袞<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 5-4<br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.403191281818,24.6056905742902,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>132</name>
+				<description><![CDATA[ID = 100<br />中文地名 = 河隊<br />拼音地名 = 河隊<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 9-9<br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.424779915806,24.6192540529646,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>133</name>
+				<description><![CDATA[ID = 73<br />中文地名 = 的馬幹<br />拼音地名 = 的馬幹<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 8-2<br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.421576139644,24.6142160419068,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>134</name>
+				<description><![CDATA[ID = 65<br />中文地名 = 金布拉雅<br />拼音地名 = 金布拉雅<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 7-7<br />地名故事 = 那是山及上高遶之間，為祖先種植桂竹之地。175林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.418147804633,24.6090554824189,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>135</name>
+				<description><![CDATA[ID = 92<br />中文地名 = 勃           海<br />拼音地名 = 勃           海<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 10-1<br />地名故事 = 現武道能敢。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.366217367998,24.8035781658175,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>136</name>
+				<description><![CDATA[ID = 103<br />中文地名 = 勃度挪幹<br />拼音地名 = 勃度挪幹<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 9-1<br />地名故事 = 現名巴陵(下)。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.341734075196,24.79645339297941,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>137</name>
+				<description><![CDATA[ID = 25<br />中文地名 = 哈本<br />拼音地名 = 哈本<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 3-7<br />地名故事 = 現名霞雲(霞雲村行政區內)。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.339505294794,24.78761875856051,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>138</name>
+				<description><![CDATA[ID = 102<br />中文地名 = 哈本(河汾)<br />拼音地名 = 哈本(河汾)<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 9-11<br />地名故事 = 爺亨_泉上方，祖先曾落腳耕作。70林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.33233518477,24.7863832080309,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>139</name>
+				<description><![CDATA[ID = 87<br />中文地名 = 哈該<br />拼音地名 = 哈該<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 8-16<br />地名故事 = 祖先曾在此種植水流柯、桂竹及部落。30、31、36、154林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.321352493609,24.7807747951383,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>140</name>
+				<description><![CDATA[ID = 33<br />中文地名 = 挖亞<br />拼音地名 = 挖亞<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 4-6<br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.337720203647,24.7958153507361,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>141</name>
+				<description><![CDATA[ID = 117<br />中文地名 = 段   那   路<br />拼音地名 = 段   那   路<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 10-16<br />地名故事 = 種桂竹、水柳柯。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.305194461953,24.79890053711051,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>142</name>
+				<description><![CDATA[ID = 16<br />中文地名 = 毒爸<br />拼音地名 = 毒爸<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 1-4<br />地名故事 = 接近三峽鎮喜龍附近山區為共同獵場。目前五寮溪上方之山區。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.30206770663,24.7945830268027,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>143</name>
+				<description><![CDATA[ID = 109<br />中文地名 = 洪   拉   吻<br />拼音地名 = 洪   拉   吻<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 10-7<br />地名故事 = 原住民原始部落，現為林務局林班。中興路上方32、33林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.285491602489,24.795468959737,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>144</name>
+				<description><![CDATA[ID = 105<br />中文地名 = 砂           勞<br />拼音地名 = 砂           勞<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 10-3<br />地名故事 = 現林務局土地原為原住民耕墾。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.272369197109,24.7940312695462,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>145</name>
+				<description><![CDATA[ID = 48<br />中文地名 = 個烏賴<br />拼音地名 = 個烏賴<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 5-10<br />地名故事 = 義興溪上游與茶天山間有桂竹，為祖先遊獵之地。19林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.351263662632,24.7649653608735,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>146</name>
+				<description><![CDATA[ID = 63<br />中文地名 = 哥   馬   混<br />拼音地名 = 哥   馬   混<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 10-29<br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.335352489946,24.8122803431376,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>147</name>
+				<description><![CDATA[ID = 130<br />中文地名 = 哥   得   曼<br />拼音地名 = 哥   得   曼<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 10-19<br />地名故事 = 為族人的共同狩獵區。51、52、53、54、55、56、57林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.311375982514,24.7862788198866,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>148</name>
+				<description><![CDATA[ID = 121<br />中文地名 = 哥 曼 古 魯<br />拼音地名 = 哥 曼 古 魯<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 10-20<br />地名故事 = 該地有祖先種植竹林及水柳柯。四稜(50林班)<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.3098800089,24.7554542726158,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>149</name>
+				<description><![CDATA[ID = 120<br />中文地名 = 哥哈蛋<br />拼音地名 = 哥哈蛋<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 7-5<br />地名故事 = 49林班<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.370877573089,24.822835999197,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>150</name>
+				<description><![CDATA[ID = 14<br />中文地名 = 哦油<br />拼音地名 = 哦油<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 1-2<br />地名故事 = 農林公司佔有原為茶場(觀音洞)，為原住民耕墾地、有桂竹。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.307545251014,24.7138066447286,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>151</name>
+				<description><![CDATA[ID = 111<br />中文地名 = 娥         要<br />拼音地名 = 娥         要<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 10-9<br />地名故事 = 神木路及登山口對面有桂竹。貓(泰雅語)。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.346822629228,24.688539570684,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>152</name>
+				<description><![CDATA[ID = 47<br />中文地名 = 庫斯<br />拼音地名 = 庫斯<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 5-9<br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.342759636217,24.84288630046551,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>153</name>
+				<description><![CDATA[ID = 23<br />中文地名 = 庫斯蘇路<br />拼音地名 = 庫斯蘇路<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 3-5<br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.326438436774,24.8324197212301,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>154</name>
+				<description><![CDATA[ID = 91<br />中文地名 = 書　路<br />拼音地名 = 書　路<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 8-20<br />地名故事 = 祖先曾在此種植水流柯、桂竹及部落。30、31、36、154林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.330622887189,24.8321377165427,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>155</name>
+				<description><![CDATA[ID = 118<br />中文地名 = 浮 棍 浮 力<br />拼音地名 = 浮 棍 浮 力<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 10-17<br />地名故事 = 塔曼溪上游。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.343323516008,24.8305404395331,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>156</name>
+				<description><![CDATA[ID = 56<br />中文地名 = 烏_<br />拼音地名 = 烏_<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 6-2<br />地名故事 = 先祖曾經與此種植水流柯、桂竹等。171、172林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.365184239777,24.8435834053266,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>157</name>
+				<description><![CDATA[ID = 39<br />中文地名 = 烏賴<br />拼音地名 = 烏賴<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 5-1<br />地名故事 = 內有竹林及水柳柯等，皆為祖先曾經遺留足跡。12、17、18林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.297005295686,24.8064277870588,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>158</name>
+				<description><![CDATA[ID = 83<br />中文地名 = 翁個浪<br />拼音地名 = 翁個浪<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 8-12<br />地名故事 = 寶里苦溪附近為祖先曾有聚落。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.311049733255,24.8052398039809,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>159</name>
+				<description><![CDATA[ID = 99<br />中文地名 = 翁個魯弄<br />拼音地名 = 翁個魯弄<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 9-8<br />地名故事 = 鐵立庫(復華)新竹界線，目前仍有石牆、住宅及田地之遺跡。72林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.30625129055,24.7985658581098,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>160</name>
+				<description><![CDATA[ID = 24<br />中文地名 = 翁庫斯<br />拼音地名 = 翁庫斯<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 3-6<br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.309690218513,24.7993772106203,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>161</name>
+				<description><![CDATA[ID = 34<br />中文地名 = 馬告<br />拼音地名 = 馬告<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 4-7<br />地名故事 = 位於奎輝溪及阿類溪間有舊部落。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.278004520402,24.7966431253584,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>162</name>
+				<description><![CDATA[ID = 21<br />中文地名 = 堵暗<br />拼音地名 = 堵暗<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 3-3<br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.278425400939,24.7843658538397,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>163</name>
+				<description><![CDATA[ID = 94<br />中文地名 = 婦溝旦<br />拼音地名 = 婦溝旦<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 9-3<br />地名故事 = 武道能敢(三光國小)上方之山領地段，在此種植桂竹。156、157林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.334356753786,24.8032116625831,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>164</name>
+				<description><![CDATA[ID = 18<br />中文地名 = 寄愛<br />拼音地名 = 寄愛<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 1-6<br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.327627676619,24.8015214888842,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>165</name>
+				<description><![CDATA[ID = 97<br />中文地名 = 得          曼<br />拼音地名 = 得          曼<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 10-13<br />地名故事 = 現復華(鐵立庫)上方山頭附近，與新竹縣上抬耀之間。72、73林班<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.332322105209,24.7967369669232,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>166</name>
+				<description><![CDATA[ID = 66<br />中文地名 = 得可獵<br />拼音地名 = 得可獵<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 9-6<br />地名故事 = 那是山及上高遶之間，為祖先種植桂竹之地。175林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.34787569898,24.80140758015902,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>167</name>
+				<description><![CDATA[ID = 52<br />中文地名 = 得伯勞<br />拼音地名 = 得伯勞<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 7-8<br />地名故事 = 現名為大利幹。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.362519924637,24.8013046136616,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>168</name>
+				<description><![CDATA[ID = 53<br />中文地名 = 得利幹<br />拼音地名 = 得利幹<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 5-14<br />地名故事 = 義興上方皆為祖先居住及遊獵區、種植桂竹。20、21、22、23林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.389798333545,24.8273574003976,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>169</name>
+				<description><![CDATA[ID = 58<br />中文地名 = 得亞厚<br />拼音地名 = 得亞厚<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 5-15<br />地名故事 = 先祖曾經與此種植水流柯、桂竹等。171、172林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.380292194195,24.8224031399781,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>170</name>
+				<description><![CDATA[ID = 86<br />中文地名 = 得拉卡<br />拼音地名 = 得拉卡<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 6-4<br />地名故事 = 祖先曾在此種植水流柯、桂竹及部落。30、31、36、154林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.382588887793,24.8159180921955,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>171</name>
+				<description><![CDATA[ID = 114<br />中文地名 = 得拉散<br />拼音地名 = 得拉散<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 8-15<br />地名故事 = 上中下巴陵部落通往比該地。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.390145071843,24.7948923325628,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>172</name>
+				<description><![CDATA[ID = 90<br />中文地名 = 得給隆<br />拼音地名 = 得給隆<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 8-19<br />地名故事 = 祖先曾在此種植水流柯、桂竹及部落。30、31、36、154林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.401486176882,24.7901563895892,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>173</name>
+				<description><![CDATA[ID = 71<br />中文地名 = 喜隆<br />拼音地名 = 喜隆<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 7-13<br />地名故事 = 現名喜龍。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.396174448551,24.7878516690103,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>174</name>
+				<description><![CDATA[ID = 26<br />中文地名 = 斯給<br />拼音地名 = 斯給<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 3-8<br />地名故事 = 現名志繼其上方為先祖種植桂竹。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.378110391706,24.792945357974,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>175</name>
+				<description><![CDATA[ID = 96<br />中文地名 = 答碰<br />拼音地名 = 答碰<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 9-5<br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.367126544186,24.7789327598594,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>176</name>
+				<description><![CDATA[ID = 36<br />中文地名 = 絲散<br />拼音地名 = 絲散<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 4-9<br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.360677242783,24.7795817433224,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>177</name>
+				<description><![CDATA[ID = 134<br />中文地名 = 給          杜<br />拼音地名 = 給          杜<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 10-22<br />地名故事 = 為族人的共同狩獵區。51、52、53、54、55、56、57林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.330769771037,24.7758509429061,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>178</name>
+				<description><![CDATA[ID = 123<br />中文地名 = 給         力<br />拼音地名 = 給         力<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 10-33<br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.320420969945,24.77068029700751,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>179</name>
+				<description><![CDATA[ID = 93<br />中文地名 = 給義<br />拼音地名 = 給義<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 9-2<br />地名故事 = 153林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.32274300158,24.7518867049735,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>180</name>
+				<description><![CDATA[ID = 59<br />中文地名 = 暗努卡拉<br />拼音地名 = 暗努卡拉<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 7-1<br />地名故事 = 附近高坡間有桂竹，係祖先遺留足跡。174、173林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.343605806796,24.7549363880433,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>181</name>
+				<description><![CDATA[ID = 132<br />中文地名 = 滑          西<br />拼音地名 = 滑          西<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 10-31<br />地名故事 = 為族人的共同狩獵區。51、52、53、54、55、56、57林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.354262218311,24.7679968269261,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>182</name>
+				<description><![CDATA[ID = 61<br />中文地名 = 溜克<br />拼音地名 = 溜克<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 7-3<br />地名故事 = 附近高坡間有桂竹，係祖先遺留足跡。174、173林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.350429644719,24.747384865876,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>183</name>
+				<description><![CDATA[ID = 31<br />中文地名 = 葛牛伴<br />拼音地名 = 葛牛伴<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 4-4<br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.366912059794,24.7401017843147,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>184</name>
+				<description><![CDATA[ID = 127<br />中文地名 = 達          宦<br />拼音地名 = 達          宦<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 10-26<br />地名故事 = 92年地名<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.345657906743,24.7336096492967,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>185</name>
+				<description><![CDATA[ID = 101<br />中文地名 = 達碰<br />拼音地名 = 達碰<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 9-10<br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.354402985195,24.7273970769235,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>186</name>
+				<description><![CDATA[ID = 46<br />中文地名 = 鼓露<br />拼音地名 = 鼓露<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 5-8<br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.352424048829,24.706021237877,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>187</name>
+				<description><![CDATA[ID = 74<br />中文地名 = 鼓露 露比 庫斯<br />拼音地名 = 鼓露 露比 庫斯<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 8-3<br />地名故事 = 希布喬溪為獵場至夫婦山及南北插天山間，目前皆為水流柯、桂竹等。20、21、22、24、25、26林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.384132788504,24.7239357107887,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>188</name>
+				<description><![CDATA[ID = 125<br />中文地名 = 嘎   拉   灣<br />拼音地名 = 嘎   拉   灣<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 10-24<br />地名故事 = 92年地名<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.385819787755,24.7110213280871,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>189</name>
+				<description><![CDATA[ID = 128<br />中文地名 = 賓   吉   暗<br />拼音地名 = 賓   吉   暗<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 10-27<br />地名故事 = 92年地名<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.409113408282,24.6963554851636,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>190</name>
+				<description><![CDATA[ID = 17<br />中文地名 = 魯恨<br />拼音地名 = 魯恨<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 1-5<br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.39834229065,24.68727145814101,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>191</name>
+				<description><![CDATA[ID = 126<br />中文地名 = 噶 了 喝 下<br />拼音地名 = 噶 了 喝 下<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 10-25<br />地名故事 = 92年地名<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.374128537095,24.6934675135384,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>192</name>
+				<description><![CDATA[ID = 98<br />中文地名 = 噶拉蛋<br />拼音地名 = 噶拉蛋<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 9-7<br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.384569173383,24.6786032672787,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>193</name>
+				<description><![CDATA[ID = 38<br />中文地名 = 諾幹<br />拼音地名 = 諾幹<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 4-11<br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.376230786843,24.6695697692896,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>194</name>
+				<description><![CDATA[ID = 80<br />中文地名 = 羅暗<br />拼音地名 = 羅暗<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 8-9<br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.355489652535,24.6595725516118,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>195</name>
+				<description><![CDATA[ID = 45<br />中文地名 = 露比<br />拼音地名 = 露比<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 5-7<br />地名故事 =  <br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.398447413573,24.6599905308632,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>196</name>
+				<description><![CDATA[ID = 88<br />中文地名 = 顧利<br />拼音地名 = 顧利<br />族群 =  泰雅族<br />部落 =  <br />屬性 = 92年地名<br />備註 =  <br />原始編號 = 8-17<br />地名故事 = 祖先曾在此種植水流柯、桂竹及部落。30、31、36、154林班。<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy0</styleUrl>
+				<Point>
+					<coordinates>121.404450443768,24.63836021462661,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Document>
+	<Document>
+		<name>復興鄉傳統領域範圍</name>
+		<open>1</open>
+		<description>Exported from 復興鄉傳統領域範圍 on 2007/6/14</description>
+		<Style id="FEATURES_copy4">
+			<IconStyle>
+				<Icon>
+				</Icon>
+			</IconStyle>
+			<LineStyle>
+				<color>ff7faaff</color>
+			</LineStyle>
+			<PolyStyle>
+				<color>fffb6981</color>
+				<fill>0</fill>
+			</PolyStyle>
+		</Style>
+		<Style id="FEATURES_LABELS33">
+			<IconStyle>
+				<color>00000000</color>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="FEATURES03">
+			<LineStyle>
+				<color>ff000000</color>
+			</LineStyle>
+			<PolyStyle>
+				<color>fffb6981</color>
+			</PolyStyle>
+		</Style>
+		<Style id="FEATURES_copy5">
+			<IconStyle>
+				<Icon>
+				</Icon>
+			</IconStyle>
+			<LineStyle>
+				<color>ff7faaff</color>
+			</LineStyle>
+			<PolyStyle>
+				<color>fffb6981</color>
+				<fill>0</fill>
+			</PolyStyle>
+		</Style>
+		<StyleMap id="FEATURES_copy3">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#FEATURES_copy4</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#FEATURES_copy5</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Folder>
+			<name>Features</name>
+			<Placemark>
+				<name>長興、奎輝</name>
+				<description><![CDATA[ID = 2<br />部落名 = 長興、奎輝<br />族群 = 泰雅<br />備註 = 北界石門水庫以北跨鄉界至桃園縣大溪鎮<br />地名故事 = 北界石門水庫以北跨鄉界至桃園縣大溪鎮<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy3</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+121.346288279342,24.81028535051311,0 121.34628843219,24.8103403560096,0 121.34574987148,24.8117167479519,0 121.344850315908,24.8133139938723,0 121.344794921321,24.815074308028,0 121.343348529886,24.8150776354391,0 121.342145469309,24.8159054798187,0 121.340102106604,24.8180003617071,0 121.339075758217,24.8173426223813,0 121.338107000755,24.8156946406121,0 121.337198683836,24.8141015216007,0 121.336469848934,24.8120129400603,0 121.333998104046,24.8116884444263,0 121.328692919587,24.8109851195739,0 121.325618570902,24.8106618080229,0 121.323688541835,24.8100609316589,0 121.32232351163,24.81062366505011,0 121.322368948779,24.81078043405091,0 121.322310299776,24.8110514151109,0 121.322253178339,24.8111959940038,0 121.322238971263,24.8114397938064,0 121.322200892291,24.8116565595575,0 121.32217412807,24.8119455288289,0 121.322072242834,24.8123520301962,0 121.322114457916,24.8126589078628,0 121.322069531125,24.8128576313242,0 121.32203596,24.8132639855118,0 121.321953227061,24.8134266763723,0 121.321744716932,24.813842435412,0 121.321637276923,24.8140142077235,0 121.321541962225,24.8142130393482,0 121.321427720956,24.8143848261268,0 121.32127662406,24.814529606533,0 121.321188109084,24.8147284233181,0 121.321124207282,24.8148820447808,0 121.321016579437,24.8149815891591,0 121.320816168047,24.8150632755418,0 121.32073937541,24.8152530384264,0 121.320682250276,24.8153976166776,0 121.320630519528,24.8155963542489,0 121.320523053263,24.8157590973165,0 121.320358700389,24.8160393324628,0 121.320131880126,24.81631067266351,0 121.319872523259,24.816672366949,0 121.319789762096,24.81682602815721,0 121.319700292597,24.81701581759,0 121.319630491215,24.8171604225193,0 121.319528965223,24.8173502376132,0 121.31943961071,24.8175851690531,0 121.319394585372,24.8177477779084,0 121.319305230329,24.8179827092615,0 121.319241463396,24.8181905004902,0 121.319227922689,24.8183349851083,0 121.319233331514,24.8185155432014,0 121.31927449879,24.8187772812872,0 121.319347596707,24.8189099343719,0 121.319070748821,24.8188717996017,0 121.318350481269,24.8200284581708,0 121.317023726235,24.8197012414005,0 121.314914321053,24.8197056983189,0 121.312381378898,24.8190509399445,0 121.312439026089,24.8180057072068,0 121.310566880913,24.8164694407615,0 121.309302908674,24.8171321313425,0 121.307002983972,24.813176441538,0 121.306634807153,24.8094412732626,0 121.30643045134,24.8095409157191,0 121.306116088226,24.8096679583519,0 121.305656553361,24.8098404395295,0 121.305280697252,24.8098502355527,0 121.305091830789,24.809850620874,0 121.304766867418,24.8096887702918,0 121.304579900174,24.8095808090877,0 121.304448860015,24.8094637053306,0 121.304311041747,24.8093556437453,0 121.30401778673,24.80913955599,0 121.303843252272,24.8089322550581,0 121.303480605052,24.808653107636,0 121.303249747241,24.8085452337694,0 121.302973494997,24.8084555084908,0 121.302572695022,24.8083750631652,0 121.301983652447,24.8081685978286,0 121.301771917663,24.8080426260446,0 121.301476234224,24.808097393243,0 121.301150767233,24.8081070772983,0 121.300691744506,24.8081080006513,0 121.30022108446,24.8081540884743,0 121.299624682827,24.8082275122356,0 121.299110437856,24.8082736838617,0 121.29889617765,24.80838245417811,0 121.298563111748,24.8084463188247,0 121.298323877894,24.8085822236825,0 121.298116438428,24.8087000077892,0 121.297544049716,24.8088636604777,0 121.297123187269,24.8090540956098,0 121.296933674188,24.8091718424774,0 121.296480864088,24.8093171966943,0 121.296002525475,24.8095167710955,0 121.295606258763,24.8096529822721,0 121.295417606449,24.8097436400089,0 121.295146880101,24.8098976590071,0 121.294895765282,24.8099794108127,0 121.29475589867,24.8101783135986,0 121.294547696516,24.8103683223205,0 121.294402467356,24.8105220928084,0 121.294250767789,24.8106849043852,0 121.29408080884,24.81083872320371,0 121.293665743687,24.8110020517341,0 121.293482182565,24.8111558965774,0 121.293280019997,24.8114181197239,0 121.292864300346,24.81169881788111,0 121.292743690766,24.8118073960304,0 121.292334993554,24.8120519649583,0 121.291609788005,24.8124416062315,0 121.291294770279,24.8126950181669,0 121.290840444193,24.8129938429039,0 121.290300077221,24.8132988024881,0 121.290188606256,24.8130999963317,0 121.288082614187,24.8145342240088,0 121.286880706293,24.8160216966809,0 121.285796655521,24.8163538082195,0 121.283023361217,24.8159190338664,0 121.281517802966,24.8164169295994,0 121.279589865777,24.8166955763204,0 121.278203345512,24.8165331438041,0 121.27584975042,24.81510734609221,0 121.272414667353,24.81516864819161,0 121.268315697521,24.8147910152747,0 121.265542495717,24.8143559158607,0 121.26463627992,24.813312406177,0 121.265114896187,24.8116613754688,0 121.265712973053,24.809515075694,0 121.266253234318,24.808524004787,0 121.266069977583,24.8073692020066,0 121.265103312286,24.8062157890755,0 121.264619577651,24.8054465593192,0 121.263051834304,24.8050092747488,0 121.260521064326,24.8051237154176,0 121.258292967222,24.8058976651564,0 121.256485888957,24.8062858173729,0 121.2557042814,24.8071672541165,0 121.254923337865,24.8083787226015,0 121.254022860001,24.8100854453415,0 121.253120234772,24.8107470492597,0 121.251372114023,24.8105299725094,0 121.249985034605,24.8100372415363,0 121.248236490675,24.8096001040425,0 121.246307710453,24.8094382737836,0 121.244378503567,24.809056394572,0 121.243474329518,24.8089478565465,0 121.244075352552,24.8081217842441,0 121.244616644346,24.80757083815851,0 121.245338178845,24.80674456361921,0 121.245456971315,24.805864269487,0 121.245817677829,24.80542362757731,0 121.246600541986,24.8051473081777,0 121.246660477483,24.8049821907427,0 121.246900762652,24.8045967509119,0 121.247140719179,24.8040462925791,0 121.247440607293,24.8033307160686,0 121.247739945443,24.8023401086883,0 121.247496937118,24.8013503986879,0 121.246953287826,24.8006912220809,0 121.246771310569,24.800086453625,0 121.246830154514,24.7993712753308,0 121.246887690851,24.7979960239988,0 121.247608500019,24.7968397014862,0 121.248631679881,24.7962329360659,0 121.249534885244,24.7959013951155,0 121.250438527628,24.795789873071,0 121.251039330911,24.7949087661174,0 121.251459910361,24.7943029910106,0 121.252182101823,24.793861725611,0 121.253387232944,24.7938596900642,0 121.254833052928,24.7936922163614,0 121.255857074246,24.7935254504029,0 121.257482974318,24.793027605565,0 121.258326560125,24.7930261518673,0 121.259171174621,24.7935197479915,0 121.260195532712,24.7935179705809,0 121.260555806752,24.7929122749427,0 121.26139674006,24.7916456645157,0 121.261453190597,24.7898303588711,0 121.260908368334,24.7886211712601,0 121.260002265578,24.7875226219732,0 121.258976586437,24.7868643243479,0 121.258553788404,24.7863699984145,0 121.258611304822,24.7850497474075,0 121.259272593816,24.7843335213221,0 121.259933760638,24.7835622861754,0 121.259750372307,24.7822974587566,0 121.260412443833,24.7819662705487,0 121.261616767317,24.7816341328457,0 121.262520063527,24.7814125263044,0 121.26324248928,24.7811362261184,0 121.264870066179,24.7815183998626,0 121.265290767459,24.7810225979884,0 121.265891512359,24.780196437262,0 121.266975422006,24.7799194767142,0 121.268120167285,24.7799174310836,0 121.269504129566,24.7790898513014,0 121.270406797006,24.77859316676861,0 121.270947964099,24.7780971314113,0 121.271368629663,24.7776013125366,0 121.271365520182,24.7761711531703,0 121.271423973885,24.7753459519097,0 121.272868591663,24.7747382564926,0 121.273410816668,24.7747372674505,0 121.274132333689,24.774075872054,0 121.275215201238,24.7733588031503,0 121.27605670661,24.7724771524634,0 121.276656120299,24.7711008871154,0 121.279004586218,24.7706014730101,0 121.280751820467,24.7706532141155,0 121.282317698333,24.7704302450175,0 121.283823700595,24.77037239213171,0 121.284907986112,24.7703153269722,0 121.285931269709,24.7699283323389,0 121.286713063059,24.7693217678268,0 121.287554966361,24.7686600774829,0 121.288397877129,24.7684384313328,0 121.289301538646,24.7684366885334,0 121.290746756467,24.7681588582099,0 121.291891005806,24.767991613526,0 121.292672757839,24.7673850181228,0 121.29303228299,24.7665592198816,0 121.293149411941,24.7651288253366,0 121.293809620356,24.7640824108171,0 121.294772842713,24.7638054865563,0 121.296338347154,24.76347235946651,0 121.298084304983,24.76302884435,0 121.298928080107,24.76319218199662,0 121.300194209602,24.763629700818,0 121.301337607716,24.7631323478606,0 121.30181621631,24.7617562253962,0 121.302895481865,24.759663805157,0 121.30367391883,24.7577370060466,0 121.305477721746,24.7563581794174,0 121.306861308342,24.7555852626372,0 121.307583213992,24.7551987376615,0 121.30987483522,24.7562391369121,0 121.312461909033,24.7549686173944,0 121.314749685585,24.7544687716314,0 121.318122689134,24.754351635417,0 121.320772558162,24.7541259604725,0 121.324084880191,24.75384380101771,0 121.327396321569,24.7532315323671,0 121.330403639479,24.7515197349989,0 121.337270803968,24.7516144485526,0 121.340038652429,24.75050806708,0 121.342626350764,24.749622071957,0 121.344072892478,24.7499487954166,0 121.34720418777,24.7496115353344,0 121.350033522475,24.7489998841678,0 121.35153860787,24.7487213296873,0 121.352987025727,24.7497080378342,0 121.355217897916,24.7504728538936,0 121.3572051824,24.7503031111813,0 121.360095349871,24.7499111503101,0 121.362740888143,24.7482545828272,0 121.363346425863,24.74935324051461,0 121.363531769676,24.7509479714091,0 121.363293867307,24.7519936663968,0 121.362935328837,24.7529846469438,0 121.361972824346,24.7534270248256,0 121.36118911477,24.7532088912047,0 121.359742651027,24.7529373398777,0 121.358719740971,24.7533248357591,0 121.357276583975,24.754208383298,0 121.356074198756,24.7550363387932,0 121.354629910128,24.7555348201638,0 121.35324553649,24.755923133991,0 121.351257692667,24.7559278075271,0 121.350597547825,24.7568094533478,0 121.351142319393,24.7577432832435,0 121.351926815512,24.7582364983842,0 121.353614124798,24.7584525501071,0 121.355001026312,24.7589443258718,0 121.356567871582,24.7591606295815,0 121.357653594994,24.7596530971099,0 121.357295462487,24.7608090812887,0 121.356212083403,24.7611416983302,0 121.355069396352,24.7618044851814,0 121.353867858943,24.7629624579034,0 121.353991927094,24.7642273064481,0 121.355984920063,24.7659827797649,0 121.35749381744,24.7669692962515,0 121.360146094782,24.7675130033292,0 121.362013634642,24.7675085010418,0 121.362859597207,24.7683865514232,0 121.362261948757,24.7700381807952,0 121.362145767926,24.7715236258297,0 121.362511391764,24.7729528988867,0 121.363298109487,24.7741611254908,0 121.363483654044,24.7758108564257,0 121.363368123912,24.7775163237018,0 121.36307152431,24.7791122177034,0 121.362896216362,24.7809828468989,0 121.363020556311,24.7823026892996,0 121.364109556841,24.7838402120945,0 121.363932814722,24.78521579108361,0 121.363996597097,24.7864257671051,0 121.364907139689,24.7887337998025,0 121.366537376629,24.7898849409626,0 121.369614241165,24.7911975161289,0 121.371005005389,24.7928442517048,0 121.372334236504,24.79405107985111,0 121.373242850029,24.7956439863643,0 121.371679617998,24.796802999959,0 121.369630869746,24.7968080744958,0 121.368668866889,24.7975255237483,0 121.367890061408,24.7990676043136,0 121.366871495109,24.8010503154519,0 121.365793927645,24.8034732102876,0 121.364232135403,24.8051822010675,0 121.362004859755,24.8060126943024,0 121.360437575346,24.8058514610475,0 121.359410112177,24.8048088220812,0 121.358432670626,24.8034233271649,0 121.356994936117,24.8031644289821,0 121.354946079987,24.8031693036435,0 121.353682794637,24.8039423774659,0 121.35235814389,24.8043305441398,0 121.351515574793,24.8047175672429,0 121.350250706609,24.8049405572529,0 121.349288220138,24.8055478720602,0 121.348386139959,24.806210045922,0 121.347606415697,24.80753200051811,0 121.347364309241,24.8084255992339,0 121.347367664743,24.8083576430274,0 121.347010681227,24.8100086471822,0 121.346288279342,24.81028535051311,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>溪口</name>
+				<description><![CDATA[ID = 1<br />部落名 = 溪口<br />族群 = 泰雅<br />備註 =  <br />地名故事 = <br />土地屬性 = <br />]]></description>
+				<styleUrl>#FEATURES_copy3</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+121.34628843219,24.8103403560096,0 121.346228321006,24.8103955010024,0 121.345624307675,24.809901845151,0 121.345080410377,24.8093530422582,0 121.344656283841,24.8085289320717,0 121.344051526578,24.8077602419525,0 121.343024637196,24.8068825059945,0 121.342298920886,24.8059490680802,0 121.342296201937,24.8049589681056,0 121.342112247401,24.8038042647973,0 121.341626090411,24.8023202158372,0 121.341683636937,24.8013299777186,0 121.34107803047,24.80023124068621,0 121.341618403519,24.7995149306861,0 121.341674743268,24.7980846473355,0 121.34173138342,24.7967643749487,0 121.342327918125,24.7945627726704,0 121.343348642436,24.7932402908205,0 121.344609909706,24.7917522303316,0 121.345448605145,24.7899901050716,0 121.347252402028,24.7886107810994,0 121.348935653296,24.7872317165335,0 121.350021438659,24.7876692295455,0 121.352672571307,24.7876630067276,0 121.355263920021,24.787821896796,0 121.358154961128,24.787429965471,0 121.360085592665,24.7883054289591,0 121.361837723839,24.7899513819829,0 121.361421205152,24.79176758410321,0 121.361245219934,24.7934181865895,0 121.360344085793,24.7943554595577,0 121.359681267705,24.7943570540335,0 121.358896354211,24.7938088792351,0 121.358113342943,24.793920766776,0 121.358175178709,24.7944706780069,0 121.359083457294,24.7960086669143,0 121.358242545726,24.7969457826962,0 121.358064142634,24.7977712981541,0 121.358307861146,24.7987058149279,0 121.358492431756,24.800025514026,0 121.359278017052,24.8007937120219,0 121.358502238572,24.8034358541442,0 121.356994936117,24.8031644289821,0 121.354946079987,24.8031693036435,0 121.353682794637,24.8039423774659,0 121.35235814389,24.8043305441398,0 121.351515574793,24.8047175672429,0 121.350250706609,24.8049405572529,0 121.349288220138,24.8055478720602,0 121.348386139959,24.806210045922,0 121.347606415697,24.80753200051811,0 121.347188867659,24.8090731342467,0 121.34683034896,24.8101740829544,0 121.34628843219,24.8103403560096,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>霞雲</name>
+				<description><![CDATA[ID = 3<br />部落名 = 霞雲<br />族群 = 泰雅<br />備註 = 北界金平山到東眼山以北跨鄉界至台北縣三峽鎮<br />地名故事 = 北界金平山到東眼山以北跨鄉界至台北縣三峽鎮<br />土地屬性 =  <br />]]></description>
+				<styleUrl>#FEATURES_copy3</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+121.437821399999,24.7962573741676,0 121.437870227733,24.7962572313042,0 121.439093746082,24.7970559548094,0 121.439292041775,24.7979022539723,0 121.439980671934,24.7993265566398,0 121.440572289138,24.8009294320505,0 121.44160560389,24.8031550186991,0 121.441902062478,24.8041347415804,0 121.442885329673,24.8060038847071,0 121.444062526413,24.8074712915236,0 121.444700047117,24.8082271321164,0 121.445583491921,24.8094725360795,0 121.446223266606,24.8108523792816,0 121.446859858882,24.8113407772849,0 121.447643277681,24.8119178783044,0 121.447744789118,24.8129873161659,0 121.447699478219,24.813968048219,0 121.447946695925,24.8148141866292,0 121.448095124387,24.8153486126545,0 121.448536245336,24.8157930158726,0 121.449125643417,24.816727270477,0 121.449763242778,24.8174830874614,0 121.450108798622,24.8185072159925,0 121.450553001121,24.819798481449,0 121.450168105229,24.8214042510605,0 121.449488401454,24.8225206084179,0 121.44973613208,24.8235004585408,0 121.449692926764,24.8250606257406,0 121.449256270602,24.8258642431687,0 121.448867002464,24.82626656468811,0 121.448429373763,24.8268027477049,0 121.448284138538,24.8271597631,0 121.447747381802,24.8272950889769,0 121.447358264461,24.8277419786252,0 121.446822783719,24.8282338772502,0 121.44609257589,24.8289046450554,0 121.445555330656,24.8289062471532,0 121.445117359758,24.8293532766062,0 121.445022227433,24.8300667194921,0 121.445121662177,24.8305567206925,0 121.445514464643,24.8311349927242,0 121.446150200828,24.8313559590905,0 121.446591852269,24.8319340823513,0 121.446351958791,24.8331382551855,0 121.446016930915,24.8350558705273,0 121.445578621325,24.8354137573105,0 121.445239749352,24.8362616435067,0 121.445730896462,24.8370179110792,0 121.446660365498,24.8374162882285,0 121.447885791343,24.8386160764512,0 121.448669549239,24.8392377394492,0 121.448965993032,24.840172869729,0 121.448822351939,24.84097560437481,0 121.448774792662,24.8413323263738,0 121.448824924075,24.8416887549847,0 121.448972264563,24.8419111743697,0 121.44921697506,24.842044156165,0 121.449803444565,24.8421315369052,0 121.449952076695,24.8427105304744,0 121.449465872032,24.8433360069646,0 121.448831997958,24.8436499188065,0 121.448736073676,24.8441405030762,0 121.44873864569,24.8448536533915,0 121.449911289079,24.8449392721162,0 121.450596757622,24.8453829303801,0 121.450648510533,24.8461850768329,0 121.450750403668,24.8473436507605,0 121.450408792649,24.8474338256016,0 121.449334303781,24.8474816330109,0 121.448358312682,24.8477519989786,0 121.44723449144,24.8476662222549,0 121.446158560316,24.8473128598491,0 121.445622832192,24.8477601822487,0 121.444844931936,24.8487876647372,0 121.444603398664,24.8495461138757,0 121.4435821877,24.8508417477751,0 121.442508458801,24.8511123659875,0 121.441580323673,24.8511151120779,0 121.440699932206,24.8508057049832,0 121.440702301007,24.8514742835439,0 121.440900542409,24.8522760012127,0 121.438945296472,24.8519251796997,0 121.437774318915,24.8523297668728,0 121.436749883277,24.8527339165975,0 121.436071610787,24.8543405033849,0 121.435539718433,24.8559020878633,0 121.435104580772,24.8571959543413,0 121.43461980313,24.8582671021178,0 121.434477607744,24.8595155415345,0 121.433990948975,24.8600518244683,0 121.433211633956,24.8607226719584,0 121.4327262061,24.8616155259411,0 121.432338943879,24.8626418111887,0 121.431021436232,24.8630913425974,0 121.429847245008,24.8626044308775,0 121.428136900913,24.8624756264908,0 121.426037868627,24.8629719247363,0 121.425254375316,24.8624392893276,0 121.423837615682,24.8624433165263,0 121.422273991562,24.8623586008437,0 121.421590794605,24.8625833927793,0 121.420714140263,24.8633881675636,0 121.420960675135,24.8640560584425,0 121.421695759674,24.8647225701327,0 121.421210082314,24.8655708155916,0 121.420234488481,24.8660192876459,0 121.418962450027,24.8654879933123,0 121.417593461361,24.8651798209929,0 121.415933736817,24.8655856041336,0 121.414617177241,24.8663469956015,0 121.41418252868,24.8678636624931,0 121.413402315536,24.8683115481784,0 121.41224810178,24.87384171160472,0 121.40561267682,24.876712516339,0 121.397795864654,24.8769564111727,0 121.392908770174,24.8766127740322,0 121.388021561182,24.8762244045082,0 121.384060089232,24.8749866198876,0 121.38288871037,24.8753907805032,0 121.382498386247,24.8755700707677,0 121.380886169272,24.8756187649958,0 121.379713002945,24.8754434635797,0 121.379075114099,24.8745536355359,0 121.378484463742,24.8731288152728,0 121.377748473438,24.8721055123152,0 121.377258676988,24.87170559837,0 121.376280443121,24.8713514869252,0 121.375642734798,24.8705062153434,0 121.375348110517,24.8700166588209,0 121.375053892106,24.86966081813601,0 121.374369895281,24.8696625345586,0 121.373735023391,24.8697532699066,0 121.373440944118,24.869441998139,0 121.372901512863,24.8687747586018,0 121.372898838267,24.867883315039,0 121.372408272744,24.8672159514634,0 121.371282854566,24.8666393109505,0 121.371281256914,24.866104444575,0 121.370351540843,24.8656164552236,0 121.36942328913,24.865618754314,0 121.369128436315,24.8650400403479,0 121.368882308913,24.8644166328399,0 121.367661068471,24.8644642168376,0 121.366396227172,24.8662947998538,0 121.365128337245,24.867100211045,0 121.363324054001,24.868263497904,0 121.363276891209,24.8688430556919,0 121.362202044672,24.868845666669,0 121.360738026452,24.8694286536696,0 121.359175635975,24.8697890003106,0 121.358004222231,24.8701929663433,0 121.356540935245,24.8710433459461,0 121.354152630733,24.8730547944161,0 121.353709353043,24.8718078138075,0 121.352875984674,24.8708291893563,0 121.351995161029,24.8703409701386,0 121.350039362025,24.8698106968647,0 121.349449567587,24.8685640459917,0 121.348423578473,24.8685664434275,0 121.347690105576,24.8683452900596,0 121.346175552553,24.86834880878,0 121.34534288572,24.8675930025208,0 121.344753643463,24.8665246214131,0 121.344213637131,24.8655898421267,0 121.343330422137,24.86421012381181,0 121.343715962504,24.8622926137208,0 121.344056214895,24.8616678133301,0 121.345129764158,24.8612196100809,0 121.346544907919,24.8606368890705,0 121.348204304694,24.8600535855121,0 121.349961266331,24.8594254624123,0 121.351231193123,24.8593333363847,0 121.352549591695,24.8591073672844,0 121.353524875235,24.8584810453632,0 121.353815834997,24.8577226216795,0 121.354252458547,24.85665184353231,0 121.355275292567,24.85557967102172,0 121.356493385459,24.8544624530381,0 121.358202144765,24.854101784475,0 121.362787106595,24.8516837982355,0 121.365027923999,24.8495388533156,0 121.368834449641,24.8482814711852,0 121.371511269839,24.8449764637889,0 121.376824817976,24.8413973471822,0 121.379306443809,24.8382709831305,0 121.380519790423,24.8357272566441,0 121.378807552911,24.83484015200341,0 121.376313718773,24.8339104244038,0 121.376355958824,24.8317262552366,0 121.376837363587,24.8294072609161,0 121.377318886069,24.8271328369439,0 121.374383515191,24.8254910241368,0 121.372180538974,24.8237581858753,0 121.366455893261,24.8202065007759,0 121.366157234192,24.8182906009018,0 121.365417360729,24.8157963315409,0 121.364821281547,24.8123656765695,0 121.366231324508,24.8102673058416,0 121.367199198455,24.8072785498988,0 121.368071733346,24.8050923337897,0 121.369340298644,24.8047326242513,0 121.372270984736,24.8049927979333,0 121.375984064002,24.8056075328572,0 121.378666425817,24.80448644592361,0 121.381297044984,24.8024294127667,0 121.383929773314,24.8010854942004,0 121.387053782754,24.80072086269031,0 121.391006478838,24.7999082743613,0 121.392810781108,24.7991458101207,0 121.395842008212,24.800341288697,0 121.400626447478,24.8000611181044,0 121.403651275633,24.7992506781034,0 121.407461548299,24.7997306518153,0 121.410153023809,24.8015062097852,0 121.412202850403,24.8011885672966,0 121.417525598046,24.8012629544642,0 121.421625794578,24.8008057293583,0 121.425871686253,24.8001251139323,0 121.43011184069,24.7977952042711,0 121.436796173636,24.7963049428724,0 121.437821399999,24.7962573741676,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Feature Labels (部落名)</name>
+			<Placemark>
+				<name>長興、奎輝</name>
+				<styleUrl>#FEATURES_copy3</styleUrl>
+				<Point>
+					<coordinates>121.314209161366,24.7865359813046,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>溪口</name>
+				<styleUrl>#FEATURES_copy3</styleUrl>
+				<Point>
+					<coordinates>121.350697466961,24.7970142048575,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>霞雲</name>
+				<styleUrl>#FEATURES_copy3</styleUrl>
+				<Point>
+					<coordinates>121.403992360658,24.8364779618293,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Document>
+</Folder>
+</kml>

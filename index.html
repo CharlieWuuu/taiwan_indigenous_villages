@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>地圖</title>
+    <!-- leaflet -->
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css"
+      integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ=="
+      crossorigin=""
+    />
+    <script
+      src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js"
+      integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ=="
+      crossorigin=""
+    ></script>
+
+    <!-- jquery -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <!-- bootstrap -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.2/css/bootstrap.min.css"
+    />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.0/js/bootstrap.min.js"></script>
+    <!-- css -->
+    <link rel="stylesheet" href="./assets/css/style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-2">
+          <div class="towns">
+            <label for="towns">區：</label>
+            <select id="towns" onchange="countySelect()">
+              <option value="" selected>請選擇一縣市</option>
+              <option value="新北市">新北市</option>
+              <option value="桃園市">桃園市</option>
+              <option value="新竹縣">新竹縣</option>
+              <option value="苗栗縣">苗栗縣</option>
+              <option value="臺中市">臺中市</option>
+              <option value="南投縣">南投縣</option>
+              <option value="嘉義縣">嘉義縣</option>
+              <option value="高雄市">高雄市</option>
+              <option value="屏東縣">屏東縣</option>
+              <option value="宜蘭縣">宜蘭縣</option>
+              <option value="花蓮縣">花蓮縣</option>
+              <option value="臺東縣">臺東縣</option>
+            </select>
+          </div>
+          <div class="ListBlock">
+            <div class="ListBlockscroll"></div>
+          </div>
+        </div>
+        <div class="col-md-10">
+          <div id="map"></div>
+        </div>
+      </div>
+    </div>
+    <div id="pharmacyTemplate" style="display: none">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h3 class="panel-title">部落名稱</h3>
+        </div>
+        <div class="panel-body">
+          <strong>族語名稱</strong>：<span class="traditional">Alang</span
+          ><br />
+          <strong>地址</strong>：<span class="address">Warren, MI</span>
+          <hr />
+          <button
+            class="btn btn-secondary btn-sm btn-location"
+            type="button"
+            data-id="0"
+          >
+            Location
+          </button>
+        </div>
+      </div>
+    </div>
+    <script src="assets/javascript/script.js"></script>
+  </body>
+</html>
