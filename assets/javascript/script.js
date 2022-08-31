@@ -23,7 +23,6 @@ $.getJSON('assets/data/county.geojson', function (county) {
       },
     }),
   );
-  displayDetails(county['features'], '');
 });
 countyLayer.addTo(myMap);
 
