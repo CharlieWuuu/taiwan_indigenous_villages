@@ -30,11 +30,13 @@
     <link rel="stylesheet" href="./assets/css/style.css" />
   </head>
   <body>
+    <h4>臺灣原住民部落分布地圖</h4>
+    <hr />
     <div class="container">
       <div class="row">
-        <div class="col-md-2">
+        <div class="col-md-3">
           <div class="towns">
-            <label for="towns">區：</label>
+            <label for="towns">縣市：</label>
             <select id="towns" onchange="countySelect()">
               <option value="" selected>請選擇一縣市</option>
               <option value="新北市">新北市</option>
@@ -55,7 +57,7 @@
             <div class="ListBlockscroll"></div>
           </div>
         </div>
-        <div class="col-md-10">
+        <div class="col-md-9">
           <div id="map"></div>
         </div>
       </div>

@@ -36,7 +36,7 @@ var tribeLayer = new L.layerGroup([]);
 $.getJSON('assets/data/tribe_test2.geojson', function (data) {
   tribeLayer.addLayer(
     L.geoJSON(data['features'], {
-      // onEachFeature: onEachFeature,
+      onEachFeature: onEachFeature,
       pointToLayer: pointToLayer,
     }),
   );
