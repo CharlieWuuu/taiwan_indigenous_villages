@@ -11,11 +11,11 @@ $.getJSON('assets/data/county.geojson', function (county) {
       style: (feature) => {
         return {
           stroke: true,
-          color: 'rgba(0,0,0,0.5)',
-          weight: 2,
+          color: 'rgba(0,0,0, 0.7)',
+          weight: 1,
           opacity: 0.3,
           fill: true,
-          fillColor: 'white',
+          fillColor: 'black',
           fillOpacity: 0.15,
           smoothFactor: 0.5,
           interactive: false,
@@ -23,11 +23,14 @@ $.getJSON('assets/data/county.geojson', function (county) {
       },
     }),
   );
+  displayDetails(county['features'], '');
 });
 countyLayer.addTo(myMap);
 
 function polygon(feature, latlng) {
-  return L.polygon(latlng, { stroke: 'red', fillColor: 'grey' });
+  return L.polygon(latlng, 300, {
+    color: 'blue',
+  });
 }
 
 var tribeLayer = new L.layerGroup([]);
@@ -44,7 +47,6 @@ tribeLayer.addTo(myMap);
 
 // 部落位置
 function pointToLayer(feature, latlng) {
-  console.log(feature);
   return L.circle(latlng, 300, {
     color: 'blue',
   });
@@ -127,6 +129,39 @@ function displayDetails(features, choice) {
 // 篩選資料
 function countySelect() {
   var choice = document.getElementById('towns').value;
+  countyLayer.clearLayers();
+  myMap.removeLayer(countyLayer);
+
+  $.getJSON('assets/data/county.geojson', function (county) {
+    countyLayer.addLayer(
+      L.geoJSON(county['features'], {
+        polygon: polygon,
+        style: (feature) => {
+          return {
+            stroke: true,
+            color: 'rgba(0,0,0, 0.7)',
+            weight: 1,
+            opacity: 0.3,
+            fill: true,
+            fillColor: 'black',
+            fillOpacity: 0.15,
+            smoothFactor: 0.5,
+            interactive: false,
+          };
+        },
+        filter: function (feature, layer) {
+          if (choice == '') return true;
+          if (feature.properties['COUNTYNAME'] == choice) {
+            return true;
+          } else {
+            return false;
+          }
+        },
+      }),
+    );
+    countyLayer.addTo(myMap);
+  });
+
   tribeLayer.clearLayers();
   myMap.removeLayer(tribeLayer);
 
@@ -136,7 +171,6 @@ function countySelect() {
         onEachFeature: onEachFeature,
         pointToLayer: pointToLayer,
         filter: function (feature, layer) {
-          console.log(feature);
           if (choice == '') return true;
           if (feature.properties['縣市'] == choice) {
             return true;
