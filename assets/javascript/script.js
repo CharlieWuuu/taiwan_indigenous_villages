@@ -90,33 +90,32 @@ function displayDetails(features, choice) {
 }
 
 function renderDetail(features) {
-  tribeTemplate =
-    `<div id="tribeTemplate">
+  tribeTemplate = `<div id="tribeTemplate">
       <div class="panel panel-default">
         <div class="panel-heading">
-          <h3 class="panel-title">` +
-    features[i].properties['部落名稱'] +
-    `</h3>
+          <h3 class="panel-title">${features[i].properties['部落名稱']}</h3>
         </div>
         <div class="panel-body">
-          <strong>族語名稱</strong>：<span class="traditional">` +
-    features[i].properties['部落傳統名制_羅馬拼音'] +
-    `</span><br />
-          <strong>地址</strong>：<span class="address">` +
-    features[i].properties['縣市'] +
-    features[i].properties['鄉鎮市區'] +
-    features[i].properties['村里'] +
-    `</span>
+          <strong>族語名稱</strong>：
+          <span class="traditional">
+            ${features[i].properties['部落傳統名制_羅馬拼音']}
+          </span><br />
+          <strong>地址</strong>：
+          <span class="address">
+            ${features[i].properties['縣市']}
+            ${features[i].properties['鄉鎮市區']}
+            ${features[i].properties['村里']}
+          </span>
           <hr />
           <button
             class="btn btn-secondary btn-sm btn-location"
             type="button"
             data-id="0"
-            data-lat="` +
-    features[i].geometry.coordinates[0] +
-    `"data-lng="` +
-    features[i].geometry.coordinates[1] +
-    `">
+            data-lat="
+            ${features[i].geometry.coordinates[0]}
+            "data-lng="
+            ${features[i].geometry.coordinates[1]}
+          ">
             Location
           </button>
         </div>
