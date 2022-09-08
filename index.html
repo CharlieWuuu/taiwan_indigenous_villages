@@ -34,10 +34,10 @@
     <hr />
     <div class="container">
       <div class="row">
-        <div class="col-md-3">
+        <div class="detail col-md-3">
           <div class="towns">
             <label for="towns">縣市：</label>
-            <select id="towns" onchange="countySelect()">
+            <select id="towns" onchange="changeCounty()">
               <option value="" selected>請選擇一縣市</option>
               <option value="新北市">新北市</option>
               <option value="桃園市">桃園市</option>
@@ -59,26 +59,6 @@
         </div>
         <div class="col-md-9">
           <div id="map"></div>
-        </div>
-      </div>
-    </div>
-    <div id="pharmacyTemplate" style="display: none">
-      <div class="panel panel-default">
-        <div class="panel-heading">
-          <h3 class="panel-title">部落名稱</h3>
-        </div>
-        <div class="panel-body">
-          <strong>族語名稱</strong>：<span class="traditional">Alang</span
-          ><br />
-          <strong>地址</strong>：<span class="address">Warren, MI</span>
-          <hr />
-          <button
-            class="btn btn-secondary btn-sm btn-location"
-            type="button"
-            data-id="0"
-          >
-            Location
-          </button>
         </div>
       </div>
     </div>
